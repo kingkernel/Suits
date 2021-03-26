@@ -1,0 +1,12 @@
+{
+    "name": "kingkernel/suits",
+    "description": "template engine for PHP by Kingkernel. - Daniels Hogans",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "suits\\": "src/" 
+        }
+    }
+}
