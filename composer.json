@@ -4,9 +4,15 @@
     "type": "library",
     "license": "MIT",
     "require": {},
+    "authors": ]
+        {
+        "name": "Daniels Hogans",
+        "email" : "daniel.santos.ap@gmail.com"
+        }
+    ],
     "autoload" : {
         "psr-4": {
-            "suits\\": "src/" 
+            "suits": "src/" 
         }
     }
 }
