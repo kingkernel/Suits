@@ -4,12 +4,6 @@
     "type": "library",
     "license": "MIT",
     "require": {},
-     "repositories": [
-    {
-       "type": "vcs",
-       "url": "https://github.com/kingkernel/Suits.git" 
-    }
-  ],
     "authors": [
         {
         "name": "Daniels Hogans",
